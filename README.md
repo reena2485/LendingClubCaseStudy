@@ -61,8 +61,8 @@
 This project was inspired by UpGrad IITB Programme as a case study for the Machine Learning and Artificial Intelligence course.
 
 ## Contact
-
-Created by [@reena2485] - feel free to contact me!
+Group case study : Deepak Kaithwas and Reena Upadhyay 
+@reena2485 - feel free to contact me!
 
 <!-- Optional -->
 
