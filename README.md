@@ -56,15 +56,6 @@
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-
-This project was inspired by UpGrad IITB Programme as a case study for the Machine Learning and Artificial Intelligence course.
-
-## Contact
-Group case study : Deepak Kaithwas and Reena Upadhyay 
-@reena2485 - feel free to contact me!
-
-<!-- Optional -->
 
 <!-- ## License -->
 
